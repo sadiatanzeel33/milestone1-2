@@ -1,2 +1,2 @@
-# milestone1-2
-static interactiveresume
+# hackathonmilestone1-2
+ static interactive resume
